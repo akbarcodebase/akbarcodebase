@@ -14,7 +14,7 @@ I Love Web Development and Automation with n8n. I like to learn about server adm
 - https://ngoding.net
 - https://ts.ngoding.net
 - https://ngod.ing
-- htttps://akbar.web.id
+- https://akbar.web.id
 
 <!--
 **akbarcodebase/akbarcodebase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
