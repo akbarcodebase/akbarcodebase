@@ -1,7 +1,7 @@
 ## Hi There, Welcome to my repository.. 👋
 Faridl Mukhlashin Akbarullah | Passionate Web Development Enthusiast 😄.
 
-My name is Akbar, i graduate from STMIK EL RAHMA YOGYAKARTA with informatic technology major. ⚡
+My name is Akbar, i graduate from STMIK EL RAHMA YOGYAKARTA with Bachelor for Informatic Technology Major. ⚡
 
 I Love Web Development and Automation with n8n. I like to learn about server admin like linux, nginx, and networking. 💬
 
