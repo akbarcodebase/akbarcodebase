@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There, Welcome to my repository.. 👋
 Faridl Mukhlashin Akbarullah | Passionate Web Development Enthusiast 😄.
 
 My name is Akbar, i graduate from STMIK EL RAHMA YOGYAKARTA with informatic technology major. ⚡
